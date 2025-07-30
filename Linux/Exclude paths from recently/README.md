@@ -31,7 +31,7 @@ No Python or external dependencies beyond `inotify-tools` are required.
 
 ## 🔧 Configuration
 ```
-nano ~/.local/bin/gtk_recent_cleaner.sh
+nano ~/Applications/scripts//gtk_recent_cleaner.sh
 ```
 Modify the EXCLUDE_PATHS array:
 <pre> EXCLUDE_PATHS=(
