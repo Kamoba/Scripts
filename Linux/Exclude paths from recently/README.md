@@ -52,6 +52,7 @@ systemctl --user restart gtk-recent-cleaner.service
 To completely remove everything:
 ```
 ./gtk_recent_cleaner_installer.sh uninstall
+sudo apt purge inotify-tools   # ⚠️ if no other app needs it!
 ```
 
 Notes:
