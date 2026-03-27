@@ -24,6 +24,7 @@ No Python or external dependencies beyond `inotify-tools` are required.
 
 ## 📦 Installation
   ```bash
+  wget https://raw.githubusercontent.com/Kamoba/Scripts/main/Linux/Exclude%20paths%20from%20recently/gtk_recent_cleaner_installer.sh
   chmod +x gtk_recent_cleaner_installer.sh
   ./gtk_recent_cleaner_installer.sh install
   ```
